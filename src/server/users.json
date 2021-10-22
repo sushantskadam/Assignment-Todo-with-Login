@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "SushantKadam",
+      "email": "sushantkadam1000@gmail.com",
+      "fname": "Sushant",
+      "lname": "Sushant",
+      "password": "Kadamsuraj10",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "username": "SurajKadam",
+      "email": "kadamsuraj1000@gmail.com",
+      "fname": "Suraj",
+      "lname": "Kadam",
+      "password": "Kadamsuraj10"
+    },
+      {
+      "fname": "Anil",
+      "lname": "More",
+      "username": "Anil21",
+      "email": "anilmore20@gmail.com",
+      "password": "Anil@200",
+      "id": 2
+    }
+  ]
+}
